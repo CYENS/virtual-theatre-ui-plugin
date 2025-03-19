@@ -13,5 +13,17 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+	"Plugins": {
+		"Plugins": [
+			{
+				"Name": "PremiereCMSManagement",
+				"Enabled": true
+			},
+			{
+				"Name": "MultiplayerSessions",
+				"Enabled": true
+			}
+		]
+	}
 }
